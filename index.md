@@ -22,21 +22,22 @@ My GitHub page is http://github.com/dyaseer.
 
 * Lab 9
 
-    Lab 9, part 2 seemed like the ordinary lab assignment that would be given
-    to a student to complete, but in my case, I had an issue with it where the
-    Linux laptop itself was having an error from trying to turn the 'string'
-    into an integer when it wasn't possible. This error was expected for it
-    to not work; however, the issue was that since the terminal itself was not
-    allowing the process to run, it was causing me to fail one of the unit
-    tests on the lab. For me to fix this error, I ended up doing some personal
-    research into a coding statement that we hadn't necessarily learned yet: a
-    try-catch statement, which attempts to run a section of code, and if it
-    failed (like mine was), it would 'catch' the error. Instead of abruptly
-    ending the program, it would take a different route in the code so that the
-    code can keep running. Unfortunately, I was told to remove this from my
-    code as we hadn't necessarily learned that in class but it was nice to
-    discover a concept on my own and apply it to what I needed to complete in
-    class.
+    Lab 9, part 2 was based around the usage of storing a secret number in one
+    file, accessing that file through a different program and playing a game of
+    'guess the number.' However in my case, I had an issue with it where the
+    Linux laptop's terminal was having an error from turning the 'string'
+    into an integer when it wasn't possible. This error was expected to be
+    caught by my program; however, since the Linux OS itself was the one 
+    catching the error, and also disrupting the program from running properly,
+    it was causing me to fail one of the unit tests on the lab. For me to fix
+    this error, I ended up doing some personal research into a coding statement
+    that we hadn't necessarily learned yet: a try-catch statement, which
+    attempts to run a section of code, and if it failed (like mine was), it
+    would 'catch' the error. Instead of abruptly ending the program, it would
+    take a different route in the code so that the code can keep running.
+    Unfortunately, I was told to remove this from my code as we hadn't
+    necessarily learned that in class but it was nice to discover a concept on
+    my own and apply it to what I needed to complete in class.
 
 * Lab 10
 
