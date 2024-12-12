@@ -34,7 +34,7 @@ My GitHub page is http://github.com/dyaseer.
     failed (like mine was), it would 'catch' the error. Instead of abruptly
     ending the program, it would take a different route in the code so that the
     code can keep running. Unfortunately, I was told to remove this from my
-    code as we hadn't necessarily learned that in class but it was nice to be
+    code as we hadn't necessarily learned that in class but it was nice to
     discover a concept on my own and apply it to what I needed to complete in
     class.
 
